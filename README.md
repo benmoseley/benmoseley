@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently a PhD student at the University of Oxford and I research the intersection of physics and machine learning. Check out my [blog](https://benmoseley.blog/) and [LinkedIn profile](https://www.linkedin.com/in/benmoseley/) for more. I am also a ML lead for NASA's [Frontier Development Lab](https://frontierdevelopmentlab.org/).
+
+I'm looking to collaborate on any projects involving physics-informed machine learning. Check out my [FBPINNs](https://github.com/benmoseley/FBPINNs) repository for our lastest work on scalable physics-informed machine learning.
+
 <!--
 **benmoseley/benmoseley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

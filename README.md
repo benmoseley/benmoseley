@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently a postdoctoral fellow at the ETH Zürich AI Center and member of the ETH Zürich Computational and Applied Mathematics Laboratory and I research the intersection of physics and machine learning. Check out my [website / blog](https://benmoseley.blog/) and [LinkedIn profile](https://www.linkedin.com/in/benmoseley/) for more. I am also a ML lead for NASA's [Frontier Development Lab](https://frontierdevelopmentlab.org/).
+I'm currently a postdoctoral fellow at the [ETH Zürich AI Center](https://ai.ethz.ch/) and member of the [ETH Zürich Computational and Applied Mathematics Lab](https://camlab.ethz.ch/) and I research the intersection of physics and machine learning. Check out my [website / blog](https://benmoseley.blog/) and [LinkedIn profile](https://www.linkedin.com/in/benmoseley/) for more. I am also a ML lead for NASA's [Frontier Development Lab](https://frontierdevelopmentlab.org/).
 
 I'm looking to collaborate on any projects involving physics-informed machine learning. Check out my [FBPINNs](https://github.com/benmoseley/FBPINNs) repository for our lastest work on scalable physics-informed machine learning.
 

@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm currently a postdoctoral fellow at the [ETH Zürich AI Center](https://ai.ethz.ch/) and member of the [ETH Zürich Computational and Applied Mathematics Lab](https://camlab.ethz.ch/) and I research the intersection of physics and machine learning. Check out my [website / blog](https://benmoseley.blog/) and [LinkedIn profile](https://www.linkedin.com/in/benmoseley/) for more. I am also a ML lead for NASA's [Frontier Development Lab](https://frontierdevelopmentlab.org/).
+I am a Postdoctoral Fellow at the [ETH Zürich AI Center](https://ai.ethz.ch/) and member of the [ETH Zürich Computational and Applied Mathematics Lab](https://camlab.ethz.ch/). My research focuses on developing scientific machine learning algorithms that can scale to solve real-world problems. Check out my [website / blog](https://benmoseley.blog/) and [LinkedIn profile](https://www.linkedin.com/in/benmoseley/) for more. I am also a ML Team Lead for NASA's [Frontier Development Lab](https://frontierdevelopmentlab.org/).
 
-I'm looking to collaborate on any projects involving physics-informed machine learning. Check out my [FBPINNs](https://github.com/benmoseley/FBPINNs) repository for our lastest work on scalable physics-informed machine learning.
+I'm open to collaboration on projects involving scientific machine learning / physics-informed machine learning. Check out my [FBPINNs](https://github.com/benmoseley/FBPINNs) repository for our latest work on scalable physics-informed neural networks.
 
 <!--
 **benmoseley/benmoseley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

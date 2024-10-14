@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Postdoctoral Fellow at the [ETH Zürich AI Center](https://ai.ethz.ch/) and member of the [ETH Zürich Computational and Applied Mathematics Lab](https://camlab.ethz.ch/). My research focuses on developing scientific machine learning algorithms that can scale to solve real-world problems. Check out my [website / blog](https://benmoseley.blog/) and [LinkedIn profile](https://www.linkedin.com/in/benmoseley/) for more. I was also a ML Team Lead for NASA's [Frontier Development Lab](https://frontierdevelopmentlab.org/).
+I am a joining [Imperial College London](https://www.imperial.ac.uk/) as a Lecturer in AI at the [Department of Earth Science and Engineering](https://www.imperial.ac.uk/earth-science/) in November 2024. Check out my [website / blog](https://benmoseley.blog/) and [LinkedIn profile](https://www.linkedin.com/in/benmoseley/) for more. Before this I was a Postdoctoral Fellow at the [ETH Zürich AI Center](https://ai.ethz.ch/), and a ML Team Lead for NASA's [Frontier Development Lab](https://frontierdevelopmentlab.org/).
 
 I'm open to collaboration on projects involving scientific machine learning / physics-informed machine learning. Check out my [FBPINNs](https://github.com/benmoseley/FBPINNs) repository for our latest work on scalable physics-informed neural networks.
 

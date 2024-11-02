@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am joining [Imperial College London](https://www.imperial.ac.uk/) as a Lecturer in AI at the [Department of Earth Science and Engineering](https://www.imperial.ac.uk/earth-science/) in November 2024. Check out my [website / blog](https://benmoseley.blog/) and [LinkedIn profile](https://www.linkedin.com/in/benmoseley/) for more. Before this I was a Postdoctoral Fellow at the [ETH Zürich AI Center](https://ai.ethz.ch/), and a ML Team Lead for NASA's [Frontier Development Lab](https://frontierdevelopmentlab.org/).
+I am a Lecturer in AI at [Imperial College London](https://www.imperial.ac.uk/) in the [Department of Earth Science and Engineering](https://www.imperial.ac.uk/earth-science/) and lead the Scalable Scientific Machine Learning Lab. Before this I was a Postdoctoral Fellow at the [ETH Zürich AI Center](https://ai.ethz.ch/), and a ML Team Lead for NASA's [Frontier Development Lab](https://frontierdevelopmentlab.org/).
 
-I'm open to collaboration on projects involving scientific machine learning / physics-informed machine learning. Check out my [FBPINNs](https://github.com/benmoseley/FBPINNs) repository for our latest work on scalable physics-informed neural networks.
+I'm open to collaboration (or supervising students) on projects involving scientific machine learning / physics-informed machine learning. Check out my [FBPINNs](https://github.com/benmoseley/FBPINNs) repository for our latest work on scalable physics-informed neural networks.
 
 <!--
 **benmoseley/benmoseley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

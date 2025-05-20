@@ -4,7 +4,7 @@ I am a Lecturer in AI at [Imperial College London](https://www.imperial.ac.uk/) 
 
 I'm open to collaboration (or supervising students) on projects involving scientific machine learning / physics-informed machine learning. Check out my [FBPINNs](https://github.com/benmoseley/FBPINNs) repository for our latest work on scalable physics-informed neural networks.
 
-Here's a [list of all the repositories for my SciML workshops / lectures / tutorials](https://github.com/stars/benmoseley/lists/workshops).
+Here's a [list of repositories with materials from my AI and SciML workshops, tutorials and lectures](https://github.com/stars/benmoseley/lists/workshops).
 
 <!--
 **benmoseley/benmoseley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
